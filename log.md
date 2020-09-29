@@ -8,3 +8,12 @@
 
 **Link(s) to work**
 1. [Valve Catalogue WebGL](https://rcwongtk.github.io/Valve-Catalogue-WebGL/)
+
+### Day 1: September 28, Monday
+
+**Today's Progress**: Added two levels and some new scripts for the basic platformer game.
+
+**Thoughts** Decided my goal with this platformer will be 100 levels, then will just leave the game for anyone to play for free.
+
+**Link(s) to work**
+1. [Basic Platformer WebGL](https://rcwongtk.github.io/BasicPlatformerWebGL/)
