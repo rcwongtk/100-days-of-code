@@ -17,3 +17,12 @@
 
 **Link(s) to work**
 1. [Basic Platformer WebGL](https://rcwongtk.github.io/BasicPlatformerWebGL/)
+
+### Day 3: September 29, Tuesday
+
+**Today's Progress**: Debugging Toastmasters application so the WebGL Build actually works.
+
+**Thoughts** Lots of errors have prevented WebGL from working, needs to be absolutely error free for it to work.
+
+**Link(s) to work**
+1. Not updating repository yet.
