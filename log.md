@@ -26,3 +26,12 @@
 
 **Link(s) to work**
 1. Not updating repository yet.
+
+### Day 4: September 30, Wednesday
+
+**Today's Progress**: Debugging Toastmasters application so the WebGL Build actually works.
+
+**Thoughts** Lots of errors have prevented WebGL from working, needs to be absolutely error free for it to work.
+
+**Link(s) to work**
+1. [Toastmasters App](https://rcwongtk.github.io/TMToolkitWebGL/)
