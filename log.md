@@ -35,3 +35,12 @@
 
 **Link(s) to work**
 1. [Toastmasters App](https://rcwongtk.github.io/TMToolkitWebGL/)
+
+### Day 4/5: October 01/02, Thursday/Friday
+
+**Today's Progress**: Working on Engineering Model review program, semi-secret project so can't upload anything.
+
+**Thoughts** Lots of debugging, trying to get stuff to work. Working on adding a revision control system.
+
+**Link(s) to work**
+1. N/A
