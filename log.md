@@ -44,3 +44,12 @@
 
 **Link(s) to work**
 1. N/A
+
+### Day 6: October 03, Saturday
+
+**Today's Progress**: Working on Engineering Model review program, trying to incorporate note function into it.
+
+**Thoughts** Lots of debugging, trying to get stuff to work. not too productive atm
+
+**Link(s) to work**
+1. N/A
