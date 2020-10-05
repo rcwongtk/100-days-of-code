@@ -53,3 +53,12 @@
 
 **Link(s) to work**
 1. N/A
+
+### Day 7: October 04, Sunday
+
+**Today's Progress**: Working on the platformer game, adding some new mechanics and preparing for upload to a LinkedIn Post
+
+**Thoughts** Running out of ideas for the levels, quite difficult when you are restricted to a one room size (self imposed restriction though!)
+
+**Link(s) to work**
+1. [Basic Platformer WebGL](https://rcwongtk.github.io/BasicPlatformerWebGL/)
