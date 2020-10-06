@@ -62,3 +62,12 @@
 
 **Link(s) to work**
 1. [Basic Platformer WebGL](https://rcwongtk.github.io/BasicPlatformerWebGL/)
+
+### Day 8: October 05, Monday
+
+**Today's Progress**: Working on the platformer game, added two new levels.
+
+**Thoughts** Next up on the game, will add platforms that drop when you step on them, and potentially a way to freeze the platforms
+
+**Link(s) to work**
+1. [Basic Platformer WebGL](https://rcwongtk.github.io/BasicPlatformerWebGL/)
