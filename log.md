@@ -71,3 +71,12 @@
 
 **Link(s) to work**
 1. [Basic Platformer WebGL](https://rcwongtk.github.io/BasicPlatformerWebGL/)
+
+### Day 9: October 06, Tuesday
+
+**Today's Progress**: Looking into some Hololens development, checked out the Enklu program and played with template Unity code.
+
+**Thoughts** Want to look more into AR applications for a week or so.
+
+**Link(s) to work**
+1. [Hololens 2 Tutorial](https://docs.microsoft.com/en-us/windows/mixed-reality/develop/unity/tutorials/holograms-100)
