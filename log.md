@@ -80,3 +80,12 @@
 
 **Link(s) to work**
 1. [Hololens 2 Tutorial](https://docs.microsoft.com/en-us/windows/mixed-reality/develop/unity/tutorials/holograms-100)
+
+### Day 10: October 07, Wednesday
+
+**Today's Progress**: Continuing hololens development, going through the getting started tutorials. Decided to go the pure Unity C# route for more flexibility.
+
+**Thoughts** Don't think I will be using the Enklu route, will try to develop my own programs first.
+
+**Link(s) to work**
+1. [Hololens 2 Tutorial](https://docs.microsoft.com/en-us/windows/mixed-reality/develop/unity/tutorials/mr-learning-base-06)
