@@ -89,3 +89,12 @@
 
 **Link(s) to work**
 1. [Hololens 2 Tutorial](https://docs.microsoft.com/en-us/windows/mixed-reality/develop/unity/tutorials/mr-learning-base-06)
+
+### Day 10: October 08, Thursday
+
+**Today's Progress**: Finished Hololens Tutorial (Mars Rover one), started working on applying concepts to a piping construction application
+
+**Thoughts** Having problems with the "Location To Place" portion of the Hololens, can't seem to have objects snap to the right position.
+
+**Link(s) to work**
+1. [Hololens 2 Tutorial](https://docs.microsoft.com/en-us/windows/mixed-reality/develop/unity/tutorials/mr-learning-base-06)
