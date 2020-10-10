@@ -98,3 +98,12 @@
 
 **Link(s) to work**
 1. [Hololens 2 Tutorial](https://docs.microsoft.com/en-us/windows/mixed-reality/develop/unity/tutorials/mr-learning-base-06)
+
+### Day 10: October 09, Friday
+
+**Today's Progress**: Trying to apply concepts from tutorial to my own model, creating a piping assembly tutorial program.
+
+**Thoughts** Having problems with the "Location To Place" portion of the Hololens still, trying to decipher what goes on in the code so I can make it work
+
+**Link(s) to work**
+1. [No Links this time]()
