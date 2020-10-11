@@ -107,3 +107,12 @@
 
 **Link(s) to work**
 1. [No Links this time]()
+
+### Day 10: October 10, Saturday
+
+**Today's Progress**: Got the object clicking to work successfully, as well as fixed issues with the radial solver on the screens that follow you.
+
+**Thoughts** very helpful information found here: https://github.com/microsoft/MixedRealityToolkit-Unity/issues/7624
+
+**Link(s) to work**
+1. [No Links this time]()
