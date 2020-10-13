@@ -116,3 +116,22 @@
 
 **Link(s) to work**
 1. [No Links this time]()
+
+### Day 11: October 11, Sunday
+
+**Today's Progress**: Uploaded a model of the piping wanted for the tutorial, also added required UI and created a script for text instructions.
+
+**Thoughts** Going to be posting this on LinkedIn tomorrow
+
+**Link(s) to work**
+1. [No Links this time]()
+
+### Day 12: October 12, Monday
+
+**Today's Progress**: Did a check on the program on Unity, filmed the tutorial and posted it on LinkedIn. Continuing to work on the tutorial
+
+**Thoughts** May as well upload this onto Github, will just hide the model as it is proprietary information. Hoping to make another video when updating the application.
+
+**Link(s) to work**
+1. [Spool Fabrication](https://github.com/rcwongtk/SpoolFabrication)
+2. [Video In Action](https://www.linkedin.com/posts/rcwongtk_100daysofcode-unity-csharp-activity-6721310031192694784-TVOJ)
