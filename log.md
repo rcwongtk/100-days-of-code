@@ -135,3 +135,12 @@
 **Link(s) to work**
 1. [Spool Fabrication](https://github.com/rcwongtk/SpoolFabrication)
 2. [Video In Action](https://www.linkedin.com/posts/rcwongtk_100daysofcode-unity-csharp-activity-6721310031192694784-TVOJ)
+
+### Day 13: October 13, Tuesday
+
+**Today's Progress**: Working on a Pump Discharge Tutorial application using the Hololens, configured the models to work, and finding a liquid shader
+
+**Thoughts** Made a photo of the pump and tank, posted on LinkedIn
+
+**Link(s) to work**
+1. [Photo of Pump](https://www.linkedin.com/posts/rcwongtk_100daysofcode-csharp-unity-activity-6721921219979042816-Zr-u)
