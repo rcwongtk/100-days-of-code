@@ -144,3 +144,12 @@
 
 **Link(s) to work**
 1. [Photo of Pump](https://www.linkedin.com/posts/rcwongtk_100daysofcode-csharp-unity-activity-6721921219979042816-Zr-u)
+
+### Day 14: October 14, Wednesday
+
+**Today's Progress**: Meeting someone on Friday to talk about my applications, so updating my model review application
+
+**Thoughts** It has some proprietary information so not able to load onto GitHub
+
+**Link(s) to work**
+1. [No Links this time]()
