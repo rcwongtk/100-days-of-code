@@ -153,3 +153,12 @@
 
 **Link(s) to work**
 1. [No Links this time]()
+
+### Day 15: October 15, Thursday
+
+**Today's Progress**: Working on the TankVolume application, added scripting to allow a slider to change the suction pump tank volume, and affect the discharge piping volume
+
+**Thoughts** Hoping to post on LinkedIn by Monday, going to shoot a little screen record video for Friday
+
+**Link(s) to work**
+1. [No Links this time]()
