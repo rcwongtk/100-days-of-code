@@ -162,3 +162,12 @@
 
 **Link(s) to work**
 1. [No Links this time]()
+
+### Day 16: October 16, Friday
+
+**Today's Progress**: No progress, moved to different city so was busy packing and flying out.
+
+**Thoughts** Taking a break today.
+
+**Link(s) to work**
+1. [No Links this time]()
