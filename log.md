@@ -171,3 +171,21 @@
 
 **Link(s) to work**
 1. [No Links this time]()
+
+### Day 17: October 17, Saturday
+
+**Today's Progress**: No progress, getting settled into Halifax. More work to do on Sunday.
+
+**Thoughts** Taking a break today.
+
+**Link(s) to work**
+1. [No Links this time]()
+
+### Day 18: October 18, Sunday
+
+**Today's Progress**: Continuing work on the pump demo, adding definitions for head, and working on scripting to bring everything together.
+
+**Thoughts** Should be ready to release onto LinkedIn on Tuesday.
+
+**Link(s) to work**
+1. [No Links this time]()
