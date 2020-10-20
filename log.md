@@ -189,3 +189,12 @@
 
 **Link(s) to work**
 1. [No Links this time]()
+
+### Day 19: October 19, Monday
+
+**Today's Progress**: Added a water rising and falling animation based on pump being turned on or off. Works well! Created build to shoot a video for tomorrow.
+
+**Thoughts** Was trying to use Mathf.Lerp but for some reason was not working, Would like to learn more about why but instead used a different method.
+
+**Link(s) to work**
+1. [No Links this time]()
