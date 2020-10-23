@@ -198,3 +198,48 @@
 
 **Link(s) to work**
 1. [No Links this time]()
+
+### Day 20: October 20, Tuesday
+
+**Today's Progress**: Added the different types of head (Static Suction, Total, Discharge) to the pump, scripted the interaction between the points.
+
+**Thoughts** Shot the video but will upload tomorrow.
+
+**Link(s) to work**
+1. [No Links this time]()
+
+### Day 20: October 20, Tuesday
+
+**Today's Progress**: Uploaded the video, now working on a personal project related to 3D Models. Working on scripting. 
+
+**Thoughts** Secret project, so can't load to Github.
+
+**Link(s) to work**
+1. [Link to Video](https://www.linkedin.com/posts/rcwongtk_hololens2-100daysofcode-unity-activity-6724478028421976064-bbOi)
+
+### Day 21: October 21, Wednesday
+
+**Today's Progress**: Continuing to work on secret project, we will call it the "3D Model" project for now. Redoing some scripts that did not work well.
+
+**Thoughts** Secret project, so can't load to Github.
+
+**Link(s) to work**
+1. [No Links this time]()
+
+### Day 22: October 22, Thursday
+
+**Today's Progress**: Continuing to work on secret project, revising some old scripts, changing methods of how the project is going to work.
+
+**Thoughts** Learning alot about vector math, which is always good!
+
+**Link(s) to work**
+1. [No Links this time]()
+
+### Day 23: October 23, Friday
+
+**Today's Progress**: Hit a huge milestone on the 3D Model project, going to change gears and work on my 2D Platformer game now.
+
+**Thoughts** I want to add platforms that fall when you step on them, then get deactivated when they leave the screen. Will have to respawn if you lose however.
+
+**Link(s) to work**
+1. [No Links this time]()
