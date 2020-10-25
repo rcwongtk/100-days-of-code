@@ -243,3 +243,12 @@
 
 **Link(s) to work**
 1. [No Links this time]()
+
+### Day 23: October 23, Friday
+
+**Today's Progress**: Spent the time coding the 3D model project. This was all about debugging, added in some features but took awhile to get it working.
+
+**Thoughts** Did not attach a link to the updated platformer game, so putting the link here.
+
+**Link(s) to work**
+1. [Basic Platformer WebGL](https://rcwongtk.github.io/BasicPlatformerWebGL/)
