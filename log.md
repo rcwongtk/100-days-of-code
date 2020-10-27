@@ -244,7 +244,7 @@
 **Link(s) to work**
 1. [No Links this time]()
 
-### Day 23: October 23, Friday
+### Day 24: October 24, Saturday
 
 **Today's Progress**: Spent the time coding the 3D model project. This was all about debugging, added in some features but took awhile to get it working.
 
@@ -252,3 +252,22 @@
 
 **Link(s) to work**
 1. [Basic Platformer WebGL](https://rcwongtk.github.io/BasicPlatformerWebGL/)
+
+### Day 25: October 25, Sunday
+
+**Today's Progress**: Working on the 3D model project, working on a system of finding angles between two lines. Requires some good ol linear algebra.
+
+**Thoughts** Planning out the pseudocode and testing some general ideas, seem to be working, will really clean up the script and implement tomorrow.
+
+**Link(s) to work**
+1. [No Links this time]()
+
+
+### Day 26: October 26, Monday
+
+**Today's Progress**: Continuing to work on incorporating angles into the software, will likely take more than a day to finish this up.
+
+**Thoughts** Hopefully this software will be ready for testing in the next week or so.
+
+**Link(s) to work**
+1. [No Links this time]()
