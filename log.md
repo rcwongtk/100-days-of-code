@@ -271,3 +271,12 @@
 
 **Link(s) to work**
 1. [No Links this time]()
+
+### Day 27: October 27, Tuesday
+
+**Today's Progress**: Finished rough pilot of angle calculation system for 3D Model program, will show it around to get some feedback
+
+**Thoughts** System works very well, needs some refinement and debugging for issues with object selection.
+
+**Link(s) to work**
+1. [No Links this time]()
