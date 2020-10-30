@@ -280,3 +280,21 @@
 
 **Link(s) to work**
 1. [No Links this time]()
+
+### Day 28: October 28, Wednesday
+
+**Today's Progress**: Got a complex 3D model to decypher using my program, went through the process of debugging issues that occured. Had a meet-up with friends to give opinions on the application
+
+**Thoughts** System works very well, now have some additional aspects of the program to build. Working on pseudocode to implement tomorrow.
+
+**Link(s) to work**
+1. [No Links this time]()
+
+### Day 29: October 29, Wednesday
+
+**Today's Progress**: Working on implementing an internal checking system within the 3D model to confirm compatibility with program.
+
+**Thoughts** Finished rough script of it, something I need to really work on are the tolerances in checking the model or else many things get flagged that shouldn't need be.
+
+**Link(s) to work**
+1. [No Links this time]()
