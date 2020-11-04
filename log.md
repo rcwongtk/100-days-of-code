@@ -319,9 +319,9 @@
 
 ### Day 32: November 01, Sunday
 
-**Today's Progress**: First day free from quarantine, decided to take the day off.
+**Today's Progress**: Worked on the Hololens Spool Fabrication application, added some more steps and made it so you can move the full set-up
 
-**Thoughts** Not something should normally be done for 100 Days of Code but, need a break to celebrate!
+**Thoughts** Ready for uploading tomorrow.
 
 **Link(s) to work**
 1. [No Links this time]()
