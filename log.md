@@ -290,11 +290,56 @@
 **Link(s) to work**
 1. [No Links this time]()
 
-### Day 29: October 29, Wednesday
+### Day 29: October 29, Thursday
 
 **Today's Progress**: Working on implementing an internal checking system within the 3D model to confirm compatibility with program.
 
 **Thoughts** Finished rough script of it, something I need to really work on are the tolerances in checking the model or else many things get flagged that shouldn't need be.
+
+**Link(s) to work**
+1. [No Links this time]()
+
+### Day 30: October 30, Friday
+
+**Today's Progress**: Implementing a measurement system for branches and olets on the models, started off with pseudocode now starting to implement
+
+**Thoughts** Starting to work on a rough version, still in progress.
+
+**Link(s) to work**
+1. [No Links this time]()
+
+### Day 31: October 31, Saturday
+
+**Today's Progress**: Continuing work on the internal checking system, unfortunately due to misalignment of certain components this will take much more thought.
+
+**Thoughts** Having it work generally, but still flags alot of stuff it shouldn't.
+
+**Link(s) to work**
+1. [No Links this time]()
+
+### Day 32: November 01, Sunday
+
+**Today's Progress**: First day free from quarantine, decided to take the day off.
+
+**Thoughts** Not something should normally be done for 100 Days of Code but, need a break to celebrate!
+
+**Link(s) to work**
+1. [No Links this time]()
+
+### Day 33: November 02, Monday
+
+**Today's Progress**: Continuing work on the measurement of branches and olets, have a rough system in place which seems to be starting to look right
+
+**Thoughts** Still pulling the wrong coordinates, needs some debugging
+
+**Link(s) to work**
+1. [No Links this time]()
+
+### Day 34: November 03, Tuesday
+
+**Today's Progress**: Got the measurement system to work well, added some error checks just in case it doesn't work all the time
+
+**Thoughts** Still needs refining but will move onto debugging other minor issues before doing a check of the full program.
 
 **Link(s) to work**
 1. [No Links this time]()
