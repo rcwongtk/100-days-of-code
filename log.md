@@ -343,3 +343,57 @@
 
 **Link(s) to work**
 1. [No Links this time]()
+
+### Day 35: November 04, Wednesday
+
+**Today's Progress**: Added some additional rooms in the basic platformer, now up to 17 rooms
+
+**Thoughts** Next idea will probably just be implementing existing mechanics to make more difficult rooms.
+
+**Link(s) to work**
+1. [Basic Platformer WebGL](https://rcwongtk.github.io/BasicPlatformerWebGL/)
+
+### Day 36: November 05, Thursday
+
+**Today's Progress**: Modified the spool fabrication program for Hololens, added some more content, and made the size variable for use on a tabletop.
+
+**Thoughts** Can now create one more spool on the piping, so going to next have it assemble the full unit.
+
+**Link(s) to work**
+1. [Link to Video](https://www.linkedin.com/posts/rcwongtk_100daysofcode-csharp-unity-activity-6729148764818305024-6fzI)
+
+### Day 37: November 06, Friday
+
+**Today's Progress**: Working on connecting the 3D model application to Dropbox. Using an already created system and modifying to needs
+
+**Thoughts** Currently working on designing a simple UI for loading a model and a save file.
+
+**Link(s) to work**
+1. [No Links this time]()
+
+### Day 38: November 07, Saturday
+
+**Today's Progress**: Continuing work on the dropbox system
+
+**Thoughts** Have it connected to the save file, can now safe notes entered and store online for later. Model is tricky to figure out.
+
+**Link(s) to work**
+1. [No Links this time]()
+
+### Day 39: November 08, Sunday
+
+**Today's Progress**: Debugging current system, and modifying so that it saves the proper information required.
+
+**Thoughts** Working on a pipeline that takes all the data, stores into a single string and uploads. Working well so far.
+
+**Link(s) to work**
+1. [No Links this time]()
+
+### Day 40: November 09, Monday
+
+**Today's Progress**: Tackling how to get the model properly downloaded and utilized in the software
+
+**Thoughts** Having difficulties, so for now going to leave as a to-do and have the program just use a model already loaded into it.
+
+**Link(s) to work**
+1. [No Links this time]()
