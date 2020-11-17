@@ -397,3 +397,75 @@
 
 **Link(s) to work**
 1. [No Links this time]()
+
+### Day 41: November 10, Tuesday
+
+**Today's Progress**: Cleaned up script, added a no-selection of save file to system. Cleaned up UI.
+
+**Thoughts** Pretty much ready to go, once I can figure out how to load a model.
+
+**Link(s) to work**
+1. [No Links this time]()
+
+### Day 42: November 11, Wednesday
+
+**Today's Progress**: Cleaning up the main interface of the program, adding "nice to have features" such as zoom in function, and configuring size of objects depending on zoom
+
+**Thoughts** Smooth progress.
+
+**Link(s) to work**
+1. [No Links this time]()
+
+### Day 43: November 12, Thursday
+
+**Today's Progress**: Taking a break from programming, going back to watching some online classes. Going back to the Java Bootcamp on Udemy.
+
+**Thoughts** Taking time to learn, thinking ideas for a new program.
+
+**Link(s) to work**
+1. [No Links this time]()
+
+### Day 44: November 13, Thursday
+
+**Today's Progress**: Taking a break from programming, going back to watching some online classes. Going back to the Java Bootcamp on Udemy.
+
+**Thoughts** Taking time to learn, thinking ideas for a new program.
+
+**Link(s) to work**
+1. [No Links this time]()
+
+### Day 45: November 14, Friday
+
+**Today's Progress**: Continuing to on the Java Bootcamp, wanting to finish up the course as I started it early this year.
+
+**Thoughts** Taking time to learn, thinking ideas for a new program.
+
+**Link(s) to work**
+1. [No Links this time]()
+
+### Day 46: November 15, Saturday
+
+**Today's Progress**: Not allowed in the 100 Days of Code, but taking a weekend off, doing a road trip.
+
+**Thoughts** Will continue on Tuesday.
+
+**Link(s) to work**
+1. [No Links this time]()
+
+### Day 47: November 16, Sunday
+
+**Today's Progress**: Not allowed in the 100 Days of Code, but taking a weekend off, doing a road trip.
+
+**Thoughts** Will continue on Tuesday.
+
+**Link(s) to work**
+1. [No Links this time]()
+
+### Day 48: November 17, Monday
+
+**Today's Progress**: Not allowed in the 100 Days of Code, but taking a weekend off, doing a road trip.
+
+**Thoughts** Will continue on Tuesday.
+
+**Link(s) to work**
+1. [No Links this time]()
