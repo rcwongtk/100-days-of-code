@@ -469,3 +469,13 @@
 
 **Link(s) to work**
 1. [No Links this time]()
+
+### Day 56: November 25, Monday
+
+**Today's Progress**: Was working on projects but in the end, took a couple days off. I.e. I failed the #100 Days of Code. Will be restarting the challenge in the new year.
+
+**Thoughts** Feeling quite ashamed that I stopped at the halfway point, but hopeful it will work out better the second time around. Will keep this here as a reminder of my failure.
+
+**Link(s) to work**
+1. [No Links this time]()
+
