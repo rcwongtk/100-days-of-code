@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log (Second Attempt) - 2021
 
-### Day 0: 2020-02-01
+### Day 1: 2020-02-01
 
 **Today's Progress**: Revisited the Java Programming Masterclass on Udemy (Tim Buchalka). Rewatched video lessons and redid assignments on the course.
 
@@ -9,7 +9,7 @@
 **Link(s) to work**
 1. [Link to Course](https://www.udemy.com/course/java-the-complete-java-developer-course/)
 
-### Day 1: 2021-02-02
+### Day 2: 2021-02-02
 
 **Today's Progress**: Decided on a project to build, going to work on a gamified training app for dancers. Gearing towards street dance, will just make it a fun app to give to friends
 
