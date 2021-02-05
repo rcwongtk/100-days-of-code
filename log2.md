@@ -17,3 +17,12 @@
 
 **Link(s) to work**
 1. [Git Repository for this project](https://github.com/rcwongtk/GamifiedPD)
+
+### Day 3: 2021-02-03
+
+**Today's Progress**: Working on implementing a "Training Entry" section of the app, created the UI buttons. Creating a script to change variables depending on options selected.
+
+**Thoughts** Creating a central button script that signals the button pressed and sorts type of button depending on Tag type.
+
+**Link(s) to work**
+1. [Git Repository for this project](https://github.com/rcwongtk/GamifiedPD)
