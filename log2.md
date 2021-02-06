@@ -26,3 +26,12 @@
 
 **Link(s) to work**
 1. [Git Repository for this project](https://github.com/rcwongtk/GamifiedPD)
+
+### Day 4: 2021-02-04
+
+**Today's Progress**: Created a script for the buttons in the training entry sction. Now highlights the button pressed, stores data in a central area.
+
+**Thoughts** Will be working on a system of competing an entry, then storing in a central area. Still planning best way forward for this.
+
+**Link(s) to work**
+1. [Git Repository for this project](https://github.com/rcwongtk/GamifiedPD)
