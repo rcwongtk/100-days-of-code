@@ -35,3 +35,12 @@
 
 **Link(s) to work**
 1. [Git Repository for this project](https://github.com/rcwongtk/GamifiedPD)
+
+### Day 5: 2021-02-05
+
+**Today's Progress**: Can now create an entry, saves an entry object into a list in Player.
+
+**Thoughts** Will work on a system of updating the experience points when an entry is made next.
+
+**Link(s) to work**
+1. [Git Repository for this project](https://github.com/rcwongtk/GamifiedPD)
