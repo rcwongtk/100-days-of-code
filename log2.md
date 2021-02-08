@@ -44,3 +44,12 @@
 
 **Link(s) to work**
 1. [Git Repository for this project](https://github.com/rcwongtk/GamifiedPD)
+
+### Day 6: 2021-02-06
+
+**Today's Progress**: Updated the LocalPlayer script, so that stats now update with a training entry. Experience bar moves and levels change.
+
+**Thoughts** Keeping simple, 1 hour = 1 stat depending on tag, and 100 exp per level with req experience curve.
+
+**Link(s) to work**
+1. [Git Repository for this project](https://github.com/rcwongtk/GamifiedPD)
