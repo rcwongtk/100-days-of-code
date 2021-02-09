@@ -53,3 +53,12 @@
 
 **Link(s) to work**
 1. [Git Repository for this project](https://github.com/rcwongtk/GamifiedPD)
+
+### Day 7: 2021-02-07
+
+**Today's Progress**: Finished the first rough draft of the Training Entry Section, now updates Focus and Status depending on frequency and type of entries
+
+**Thoughts** This is a good time to show to Victor, get an opinion on the entry process. Will clean things up (like make the back button work) later on, but want to create a rough system for each button first. Will be working on the Notebook next.
+
+**Link(s) to work**
+1. [Git Repository for this project](https://github.com/rcwongtk/GamifiedPD)
