@@ -62,3 +62,12 @@
 
 **Link(s) to work**
 1. [Git Repository for this project](https://github.com/rcwongtk/GamifiedPD)
+
+### Day 8: 2021-02-08
+
+**Today's Progress**: Added a script to create achievements when they occur. After a certain stat point they will be unlocked.
+
+**Thoughts** Used a relatively simple method of setting active state depending on stat point, means the app has to be updated if new achievements are added. Works for now tho
+
+**Link(s) to work**
+1. [Git Repository for this project](https://github.com/rcwongtk/GamifiedPD)
