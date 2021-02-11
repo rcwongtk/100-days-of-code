@@ -71,3 +71,12 @@
 
 **Link(s) to work**
 1. [Git Repository for this project](https://github.com/rcwongtk/GamifiedPD)
+
+### Day 9: 2021-02-09
+
+**Today's Progress**: Minor changes to Notebook, working on design of UI to get it going
+
+**Thoughts** Spoke with Victor about some ideas for the notebook, he liked the training entry so far, suggested adding an "Intensity" feature which was a good idea.
+
+**Link(s) to work**
+1. [Git Repository for this project](https://github.com/rcwongtk/GamifiedPD)
