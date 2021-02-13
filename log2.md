@@ -80,3 +80,21 @@
 
 **Link(s) to work**
 1. [Git Repository for this project](https://github.com/rcwongtk/GamifiedPD)
+
+### Day 10: 2021-02-10
+
+**Today's Progress**: Issue with computer, took a break for the day to fix it.
+
+**Thoughts** Continuing for the 11th.
+
+**Link(s) to work**
+N/A
+
+### Day 11: 2021-02-11
+
+**Today's Progress**: Working on connecting the user to a database, so that the information can be stored. Will also have to create a sign-in screen in that case.
+
+**Thoughts** Going to use firebase for now, seems to be a good solution for this.
+
+**Link(s) to work**
+1. [Git Repository for this project](https://github.com/rcwongtk/GamifiedPD)
