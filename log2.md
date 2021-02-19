@@ -98,3 +98,12 @@ N/A
 
 **Link(s) to work**
 1. [Git Repository for this project](https://github.com/rcwongtk/GamifiedPD)
+
+### Day 12: 2021-02-18
+
+**Today's Progress**: Took a break to focus on a course, back into action. Successfully created a connection between the application and firebase.
+
+**Thoughts** Working on the sign-in screen next.
+
+**Link(s) to work**
+1. [Git Repository for this project](https://github.com/rcwongtk/GamifiedPD)
