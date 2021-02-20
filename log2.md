@@ -107,3 +107,12 @@ N/A
 
 **Link(s) to work**
 1. [Git Repository for this project](https://github.com/rcwongtk/GamifiedPD)
+
+### Day 13: 2021-02-19
+
+**Today's Progress**: Getting back into the 2D Platformer, spent some time cleaning up some code and play testing.
+
+**Thoughts** Will work on some more rooms next.
+
+**Link(s) to work**
+1. [Git Repository for this project](https://github.com/rcwongtk/BasicPlatformer)
