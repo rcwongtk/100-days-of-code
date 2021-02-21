@@ -116,3 +116,12 @@ N/A
 
 **Link(s) to work**
 1. [Git Repository for this project](https://github.com/rcwongtk/BasicPlatformer)
+
+### Day 14: 2021-02-20
+
+**Today's Progress**: Remodelled 2D Game, scripted different way of changing rooms. Makes things much easier and cleaner.
+
+**Thoughts** Previous method was to move character to next room when gate touched, but now it teleports to a checkpoint which is much more versatile
+
+**Link(s) to work**
+1. [Git Repository for this project](https://github.com/rcwongtk/BasicPlatformer)
