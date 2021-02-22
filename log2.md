@@ -125,3 +125,12 @@ N/A
 
 **Link(s) to work**
 1. [Git Repository for this project](https://github.com/rcwongtk/BasicPlatformer)
+
+### Day 15: 2021-02-21
+
+**Today's Progress**: Completely redid the layout of the game, now more organized and easier to create or modify rooms
+
+**Thoughts** Spaced out every room a set width, and improved placement of gates to remove jank.
+
+**Link(s) to work**
+1. [Git Repository for this project](https://github.com/rcwongtk/BasicPlatformer)
