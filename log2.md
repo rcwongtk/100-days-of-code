@@ -134,3 +134,12 @@ N/A
 
 **Link(s) to work**
 1. [Git Repository for this project](https://github.com/rcwongtk/BasicPlatformer)
+
+### Day 16: 2021-02-22
+
+**Today's Progress**: Worked on the GamifiedPD all day, created a sign-in section to test connection and it worked perfectly. 
+
+**Thoughts** Now that it works, going to try and implement Firebase.Auth to make sign-in more legitimate.
+
+**Link(s) to work**
+1. [Git Repository for this project](https://github.com/rcwongtk/GamifiedPD)
