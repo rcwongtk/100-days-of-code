@@ -143,3 +143,12 @@ N/A
 
 **Link(s) to work**
 1. [Git Repository for this project](https://github.com/rcwongtk/GamifiedPD)
+
+### Day 17: 2021-02-23
+
+**Today's Progress**: Hit a roadblock, for some reason Firebase.Auth does not work with my current GamifiedPD build. Going to have to rebuild the app in a different version
+
+**Thoughts** Tested using Unity 2020, and it is working great, not sure why there is this incompatibility going on got CreateUserWithEmailAndPasswordAsync encountered an error: System.AggregateException.
+
+**Link(s) to work**
+1. [Git Repository for this project](https://github.com/rcwongtk/GamifiedPD)
