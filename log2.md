@@ -144,11 +144,11 @@ N/A
 **Link(s) to work**
 1. [Git Repository for this project](https://github.com/rcwongtk/GamifiedPD)
 
-### Day 17: 2021-02-23
+### Day 18: 2021-02-24
 
-**Today's Progress**: Hit a roadblock, for some reason Firebase.Auth does not work with my current GamifiedPD build. Going to have to rebuild the app in a different version
+**Today's Progress**: Added a new level in the platformer, working on transfering dance app to newer addition.
 
-**Thoughts** Tested using Unity 2020, and it is working great, not sure why there is this incompatibility going on got CreateUserWithEmailAndPasswordAsync encountered an error: System.AggregateException.
+**Thoughts** Doing some game testing tomorrow, will have to work more on the platformer.
 
 **Link(s) to work**
 1. [Git Repository for this project](https://github.com/rcwongtk/GamifiedPD)
