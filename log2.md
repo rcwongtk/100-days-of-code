@@ -152,3 +152,12 @@ N/A
 
 **Link(s) to work**
 1. [Git Repository for this project](https://github.com/rcwongtk/GamifiedPD)
+
+### Day 19: 2021-02-25
+
+**Today's Progress**: Instead of straight coding, learned about design sessions from an experienced software engineer. Got some recommendations for reading materials and learned about a good process for preparing and cleaning up code.
+
+**Thoughts** Interesting comments about keeping code modular for easier use, guideline of around 200 lines per file, and the recommendation to read Clean Code. Ended up purchasing a copy.
+
+**Link(s) to work**
+1. [Bought this book!](https://www.amazon.ca/gp/product/0132350882/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
