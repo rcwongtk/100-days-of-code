@@ -161,3 +161,12 @@ N/A
 
 **Link(s) to work**
 1. [Bought this book!](https://www.amazon.ca/gp/product/0132350882/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
+
+### Day 20: 2021-02-26
+
+**Today's Progress**: Spent some time designing the Front end of the application, also playing around with the Sign-in Authentication side
+
+**Thoughts** Figuring out how to store specific player data based on the ID associated with the signin. Not too difficult.
+
+**Link(s) to work**
+1. [Git Repository for this project](https://github.com/rcwongtk/GamifiedPD)
