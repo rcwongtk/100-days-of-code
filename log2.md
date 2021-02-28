@@ -170,3 +170,12 @@ N/A
 
 **Link(s) to work**
 1. [Git Repository for this project](https://github.com/rcwongtk/GamifiedPD)
+
+### Day 21: 2021-02-27
+
+**Today's Progress**: Finally connected the UserID to the information on the database for the DancePD. Lots of debugging and frustration
+
+**Thoughts** Theres a strange issue that occurs when trying to pass an object variable obtained through a JsonUtility conversion. Had to use a redundant way of passing the information through (instead of passing an object, had to pass every single variable in the object). Super odd and frustrating but finally works...
+
+**Link(s) to work**
+1. [Git Repository for this project](https://github.com/rcwongtk/GamifiedPD)
