@@ -188,3 +188,12 @@ N/A
 
 **Link(s) to work**
 1. Git repository not avail - size was too high after incorporating database
+
+### Day 23: 2021-02-29
+
+**Today's Progress**: Figuring out why the UI is so weird when exporting to mobile. Must have to do with the scaling.
+
+**Thoughts** Will continue to play with UI, but will start working on the model measurement system and take a break from the games.
+
+**Link(s) to work**
+1. Git repository not avail - size was too high after incorporating database
