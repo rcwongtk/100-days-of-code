@@ -179,3 +179,12 @@ N/A
 
 **Link(s) to work**
 1. [Git Repository for this project](https://github.com/rcwongtk/GamifiedPD)
+
+### Day 22: 2021-02-28
+
+**Today's Progress**: Worked on finalizing the database, connects perfectly now. Testing with mobile, a couple issues came up
+
+**Thoughts** When testing the build on mobile, the scaling was weird. Need to adjust for that and keep playing around.
+
+**Link(s) to work**
+1. Git repository not avail - size was too high after incorporating database
