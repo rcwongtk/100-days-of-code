@@ -189,7 +189,7 @@ N/A
 **Link(s) to work**
 1. Git repository not avail - size was too high after incorporating database
 
-### Day 23: 2021-02-29
+### Day 23: 2021-03-01
 
 **Today's Progress**: Figuring out why the UI is so weird when exporting to mobile. Must have to do with the scaling.
 
@@ -197,3 +197,12 @@ N/A
 
 **Link(s) to work**
 1. Git repository not avail - size was too high after incorporating database
+
+### Day 24: 2021-03-02
+
+**Today's Progress**: Finished up moving platform rooms in BasicPlatformer, now going to code in new types of platforms.
+
+**Thoughts** Next idea is to work on "Sticky Ceilings" i.e. if you touch the platform from below you stick to the bottom of it.
+
+**Link(s) to work**
+1. [Git Repository for this project](https://github.com/rcwongtk/GamifiedPD)
