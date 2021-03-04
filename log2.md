@@ -206,3 +206,12 @@ N/A
 
 **Link(s) to work**
 1. [Git Repository for this project](https://github.com/rcwongtk/GamifiedPD)
+
+### Day 25: 2021-03-03
+
+**Today's Progress**: Got some test spools to play around with for the Model Measurement Program. Working on debugging some new issues
+
+**Thoughts** Some measurements are weird when ECC reducers are incorporated. Need to formulate a plan to deal with this
+
+**Link(s) to work**
+1. Secret project so not able to upload onto Github.
