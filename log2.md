@@ -215,3 +215,21 @@ N/A
 
 **Link(s) to work**
 1. Secret project so not able to upload onto Github.
+
+### Day 26: 2021-03-04
+
+**Today's Progress**: Model Measurement Testing issues occuring with Reducers, creating a formula to deal with shapes of this type
+
+**Thoughts** Requires some modification of the information extraction and length calculation scripts.
+
+**Link(s) to work**
+1. Secret project so not able to upload onto Github.
+
+### Day 27: 2021-03-05
+
+**Today's Progress**: Continuing work on Model Measurement System, uploaded most current build of the Basic Platformer
+
+**Thoughts** New transition method makes things look quite odd, need to make some room transitional changes.
+
+**Link(s) to work**
+1. [Git Repository for this project](https://github.com/rcwongtk/BasicPlatformer)
