@@ -233,3 +233,12 @@ N/A
 
 **Link(s) to work**
 1. [Git Repository for this project](https://github.com/rcwongtk/BasicPlatformer)
+
+### Day 28: 2021-03-06
+
+**Today's Progress**: Had to rewrite a few scripts to incorporate reducers, still in progress for the Model Measurement program
+
+**Thoughts** Requires some modification of the information extraction and length calculation scripts.
+
+**Link(s) to work**
+1. Secret project so not able to upload onto Github.
