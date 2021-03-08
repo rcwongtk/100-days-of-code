@@ -242,3 +242,12 @@ N/A
 
 **Link(s) to work**
 1. Secret project so not able to upload onto Github.
+
+### Day 29: 2021-03-07
+
+**Today's Progress**: Completed reducer script, but after reviewing it the result looked quite confusing
+
+**Thoughts** Will have to redo the script to make the measurement line proper.
+
+**Link(s) to work**
+1. Secret project so not able to upload onto Github.
