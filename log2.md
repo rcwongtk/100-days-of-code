@@ -251,3 +251,30 @@ N/A
 
 **Link(s) to work**
 1. Secret project so not able to upload onto Github.
+
+### Day 30: 2021-03-08
+
+**Today's Progress**: Creating script to clean out measurement display, get it to not show measurements that are not beneficial
+
+**Thoughts** More like modifying existing script to incorporate these details.
+
+**Link(s) to work**
+1. Secret project so not able to upload onto Github.
+
+### Day 31: 2021-03-09
+
+**Today's Progress**: Running into weird issues where particular mesurements (tee locations) are not displaying. Debugging.
+
+**Thoughts** Has something to do with how the lists are getting sorted.
+
+**Link(s) to work**
+1. Secret project so not able to upload onto Github.
+2. 
+### Day 32: 2021-03-10
+
+**Today's Progress**: Running into weird issues where particular mesurements (tee locations) are not displaying. Debugging.
+
+**Thoughts** Continuing to Debug. Also got feedback that the reducer line is not nice, asked to change it up.
+
+**Link(s) to work**
+1. Secret project so not able to upload onto Github.
