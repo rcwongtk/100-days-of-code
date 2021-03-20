@@ -269,12 +269,93 @@ N/A
 
 **Link(s) to work**
 1. Secret project so not able to upload onto Github.
-2. 
+
 ### Day 32: 2021-03-10
 
 **Today's Progress**: Running into weird issues where particular mesurements (tee locations) are not displaying. Debugging.
 
 **Thoughts** Continuing to Debug. Also got feedback that the reducer line is not nice, asked to change it up.
+
+**Link(s) to work**
+1. Secret project so not able to upload onto Github.
+
+### Day 33: 2021-03-11
+
+**Today's Progress**: Continuing to debug, to fix the tee locations.
+
+**Thoughts** Has to do with the way things are being sorted.
+
+**Link(s) to work**
+1. Secret project so not able to upload onto Github.
+
+### Day 34: 2021-03-12
+
+**Today's Progress**: Continuing to debug, to fix the tee locations.
+
+**Thoughts** Has to do with the way things are being sorted.
+
+**Link(s) to work**
+1. Secret project so not able to upload onto Github.
+
+### Day 35: 2021-03-13
+
+**Today's Progress**: Continuing to debug, to fix the tee locations.
+
+**Thoughts** Has to do with the way things are being sorted.
+
+**Link(s) to work**
+1. Secret project so not able to upload onto Github.
+
+### Day 36: 2021-03-14
+
+**Today's Progress**: Redoing the code, to ensure that with reducers things are aligned properly. Need to clean the display up.
+
+**Thoughts** Creating a concept for this, testing on a separate file
+
+**Link(s) to work**
+1. Secret project so not able to upload onto Github.
+
+### Day 37: 2021-03-15
+
+**Today's Progress**: Continuing to redo the code, just making sure the concept is correctly implemented.
+
+**Thoughts** Unfortunately changes are affecting other parts of the code so we have to update everything
+
+**Link(s) to work**
+1. Secret project so not able to upload onto Github.
+
+### Day 38: 2021-03-16
+
+**Today's Progress**: Continuing to redo the code, just making sure the concept is correctly implemented.
+
+**Thoughts** Unfortunately changes are affecting other parts of the code so we have to update everything
+
+**Link(s) to work**
+1. Secret project so not able to upload onto Github.
+
+### Day 39: 2021-03-17
+
+**Today's Progress**: Continuing to redo the code, just making sure the concept is correctly implemented.
+
+**Thoughts** Unfortunately changes are affecting other parts of the code so we have to update everything
+
+**Link(s) to work**
+1. Secret project so not able to upload onto Github.
+
+### Day 40: 2021-03-18
+
+**Today's Progress**: Got things working well, just cleaning things up so it is easier to understand
+
+**Thoughts** Updating the other code and deleting unncessary lines.
+
+**Link(s) to work**
+1. Secret project so not able to upload onto Github.
+
+### Day 41: 2021-03-19
+
+**Today's Progress**: Updating a fork of the file to create a modified program for a potential client.
+
+**Thoughts** Need to reroute the database, will act as a pilot program for them to test.
 
 **Link(s) to work**
 1. Secret project so not able to upload onto Github.
